@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+
+.coolio{
+    width: 500px;
+    height: 100px;
+    background-color: crimson;
+    cursor: pointer;
+    border: none;
+    border-radius: 6px;
+    margin-top: 20px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
